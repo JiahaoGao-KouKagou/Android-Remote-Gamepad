@@ -4,7 +4,8 @@ This converts your phone to a gamepad to control computer games remotely,
 through a UDP client and server.
 
 \**此文档有待完善*
-https://codedocs.xyz/Inaba-Reisen/Android-Remote-Gamepad/index.html
+
+See https://codedocs.xyz/Inaba-Reisen/Android-Remote-Gamepad/index.html for the API document.
 
 ## 编码规则
 0. 信号类型 ：1链接成功 / 2鼠标移动 / 4鼠标滚轮 / 8键盘
